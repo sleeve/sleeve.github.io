@@ -1,0 +1,9 @@
+.className {
+    width:830px; /*Set to image width*/
+    height:421px; /*Set to image height*/
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin:-211px auto auto -415px; /*Half of image width, 0, 0, half of image height*/
+    text-align:center;
+}
